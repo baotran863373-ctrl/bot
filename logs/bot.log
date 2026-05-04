@@ -1,0 +1,1115 @@
+2026-05-04 23:33:21,563:INFO:__main__: Loaded extension: 50kmem.py
+2026-05-04 23:33:22,610:INFO:cogs.append: [DOC] MongoDB connected — db=discord_bot, collection=contributed_documents
+2026-05-04 23:33:22,610:INFO:__main__: Loaded extension: append.py
+2026-05-04 23:33:22,614:INFO:cogs.ban: [BANNED_WORDS] Đã load | 6 từ/cụm | timeout=36036 phút | thông báo xóa sau 4.0s
+2026-05-04 23:33:22,614:INFO:__main__: Loaded extension: ban.py
+2026-05-04 23:33:22,616:INFO:__main__: Loaded extension: chat.py
+2026-05-04 23:33:22,627:INFO:cogs.clearspmimage: Cog đã load — auto_channels=[1411520340508807178] (gồm thread con của các kênh này) report_author_role_ids=[1185158470958333953, 1469581542841122918, 1472560579007746079] (@bot)
+2026-05-04 23:33:22,627:INFO:cogs.clearspmimage: Thư mục làm việc: C:\Users\PC\Desktop\bot-diso-2-main — thêm log file: logs/bot.log
+2026-05-04 23:33:22,628:INFO:__main__: Loaded extension: clearspmimage.py
+2026-05-04 23:33:22,634:INFO:__main__: Loaded extension: daily.py
+2026-05-04 23:33:22,639:INFO:cogs.daily1: [tinhnang1] Quảng cáo mỗi 30 phút → kênh 1446866616452386856
+2026-05-04 23:33:22,639:INFO:__main__: Loaded extension: daily1.py
+2026-05-04 23:33:22,643:INFO:cogs.daily2: [daily4] Nhắc tài liệu mỗi 30 phút → kênh 1446866616452386856
+2026-05-04 23:33:22,643:INFO:__main__: Loaded extension: daily2.py
+2026-05-04 23:33:22,646:INFO:cogs.dailydiemthi: [DailyDiemThi] Cog loaded
+2026-05-04 23:33:22,646:INFO:__main__: Loaded extension: dailydiemthi.py
+2026-05-04 23:33:22,651:INFO:__main__: Loaded extension: delete.py
+2026-05-04 23:33:22,655:INFO:__main__: Loaded extension: donate.py
+2026-05-04 23:33:22,673:INFO:__main__: Loaded extension: events.py
+2026-05-04 23:33:22,676:INFO:__main__: Loaded extension: fun.py
+2026-05-04 23:33:22,678:INFO:__main__: Loaded extension: instruct.py
+2026-05-04 23:33:22,681:INFO:__main__: Loaded extension: lastmem.py
+2026-05-04 23:33:22,683:INFO:__main__: Loaded extension: mixi.py
+2026-05-04 23:33:22,686:INFO:__main__: Loaded extension: moderation.py
+2026-05-04 23:33:23,489:INFO:cogs.noitueng: [WORD_CHAIN] MongoDB — db=discord_bot
+2026-05-04 23:33:23,489:INFO:__main__: Loaded extension: noitueng.py
+2026-05-04 23:33:23,902:INFO:cogs.noituviet: [GAME2] loaded 77775 words from C:\Users\PC\Desktop\bot-diso-2-main\data\words.txt
+2026-05-04 23:33:24,698:INFO:cogs.noituviet: [GAME2] loaded 3 custom words from MongoDB
+2026-05-04 23:33:24,698:INFO:cogs.noituviet: [GAME2] MongoDB connected — db=discord_bot_game2
+2026-05-04 23:33:24,699:INFO:__main__: Loaded extension: noituviet.py
+2026-05-04 23:33:24,712:INFO:__main__: Loaded extension: os.py
+2026-05-04 23:33:24,716:INFO:__main__: Loaded extension: rank.py
+2026-05-04 23:33:24,720:INFO:cogs.remain: [Remain] setup() duoc goi
+2026-05-04 23:33:24,720:INFO:cogs.remain: [Remain] Cog loaded thanh cong
+2026-05-04 23:33:24,721:INFO:__main__: Loaded extension: remain.py
+2026-05-04 23:33:24,726:INFO:__main__: Loaded extension: remainthpt.py
+2026-05-04 23:33:24,729:INFO:__main__: Loaded extension: removetimeout.py
+2026-05-04 23:33:24,733:INFO:cogs.report: [REPORT] MessageViolationReport cog loaded
+2026-05-04 23:33:24,734:INFO:__main__: Loaded extension: report.py
+2026-05-04 23:33:24,739:INFO:__main__: Loaded extension: scam.py
+2026-05-04 23:33:24,742:INFO:__main__: Loaded extension: showavt.py
+2026-05-04 23:33:24,750:INFO:cogs.spam: [SPAM] Đã load cog | theo dõi channel IDs: [1411520340508807178, 1485265777102950430] | SPAM_DEBUG=True
+2026-05-04 23:33:24,750:INFO:cogs.spam: [SPAM] Quét định kỳ: mỗi 1h, 5 tin/kênh | IDs: [1411520340508807178, 1485265777102950430]
+2026-05-04 23:33:24,750:INFO:__main__: Loaded extension: spam.py
+2026-05-04 23:33:24,755:INFO:__main__: Loaded extension: stop.py
+2026-05-04 23:33:24,758:INFO:__main__: Loaded extension: timeoureason.py
+2026-05-04 23:33:24,761:ERROR:__main__: Failed to load extension tinhnang1.py: Extension 'cogs.tinhnang1' raised an error: ClientException: Cog named 'Tinhnang1' already loaded
+2026-05-04 23:33:25,393:INFO:cogs.trigger: [TRIGGER] MongoDB connected — db=discord_bot, collection=trigger_aliases
+2026-05-04 23:33:25,393:INFO:__main__: Loaded extension: trigger.py
+2026-05-04 23:33:29,231:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:29,232:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:33:29,232:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:29,232:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:29,232:INFO:cogs.events: [DEBUG] Message from vyzy_98_34815 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:29,233:INFO:cogs.events: [DEBUG] Channel ID: 1500688262434525204
+2026-05-04 23:33:29,233:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:29,233:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:31,252:INFO:cogs.daily: [ScheduledMessages] ══════════════════════════════
+2026-05-04 23:33:31,253:INFO:cogs.daily: [ScheduledMessages] Giờ hiện tại (GMT+7): 23:33:31 04/05/2026
+2026-05-04 23:33:31,253:INFO:cogs.daily: [ScheduledMessages] Kênh nhận: [1439553447384060047, 1486411439907274884]
+2026-05-04 23:33:31,254:INFO:cogs.daily: [ScheduledMessages] Tổng lịch: 14 | Bật: 0 | Tắt: 14
+2026-05-04 23:33:31,254:INFO:cogs.daily: [ScheduledMessages]   ❌ 01:00 GMT+7 (disabled)
+2026-05-04 23:33:31,254:INFO:cogs.daily: [ScheduledMessages]   ❌ 02:00 GMT+7 (disabled)
+2026-05-04 23:33:31,254:INFO:cogs.daily: [ScheduledMessages]   ❌ 03:00 GMT+7 (disabled)
+2026-05-04 23:33:31,255:INFO:cogs.daily: [ScheduledMessages]   ❌ 04:00 GMT+7 (disabled)
+2026-05-04 23:33:31,255:INFO:cogs.daily: [ScheduledMessages]   ❌ 05:01 GMT+7 (disabled)
+2026-05-04 23:33:31,255:INFO:cogs.daily: [ScheduledMessages]   ❌ 05:00 GMT+7 (disabled)
+2026-05-04 23:33:31,255:INFO:cogs.daily: [ScheduledMessages]   ❌ 06:00 GMT+7 (disabled)
+2026-05-04 23:33:31,256:INFO:cogs.daily: [ScheduledMessages]   ❌ 07:00 GMT+7 (disabled)
+2026-05-04 23:33:31,256:INFO:cogs.daily: [ScheduledMessages]   ❌ 10:00 GMT+7 (disabled)
+2026-05-04 23:33:31,256:INFO:cogs.daily: [ScheduledMessages]   ❌ 19:00 GMT+7 (disabled)
+2026-05-04 23:33:31,256:INFO:cogs.daily: [ScheduledMessages]   ❌ 11:00 GMT+7 (disabled)
+2026-05-04 23:33:31,256:INFO:cogs.daily: [ScheduledMessages]   ❌ 15:00 GMT+7 (disabled)
+2026-05-04 23:33:31,256:INFO:cogs.daily: [ScheduledMessages]   ❌ 18:00 GMT+7 (disabled)
+2026-05-04 23:33:31,257:INFO:cogs.daily: [ScheduledMessages]   ❌ 21:00 GMT+7 (disabled)
+2026-05-04 23:33:31,257:INFO:cogs.daily: [ScheduledMessages] Loop bắt đầu sau 29s (đồng bộ đầu phút)
+2026-05-04 23:33:31,257:INFO:cogs.daily: [ScheduledMessages] ══════════════════════════════
+2026-05-04 23:33:31,257:INFO:__main__: Logged in as Hiếu thứ 2#5576 (ID: 1459206675088146668)
+2026-05-04 23:33:31,258:INFO:__main__: ------
+2026-05-04 23:33:31,258:INFO:__main__: 
+========== HƯỚNG DẪN LỆNH (mỗi lần khởi động) ==========
+Prefix: !
+— Nối từ tiếng Anh — kênh: cogs/game1.py → WORD_CHAIN_CHANNEL_IDS:
+    !wcstart [từ]    Mở phiên (1 lần/phiên; cần !wcstop trước khi mở lại)
+    !wcstop          Vote dừng phiên — cần 4 người
+    (một từ thường trong kênh) Nhập từ khi phiên mở
+    !wchint          Gợi ý từ tiếp
+    !wchistory       Từ đã dùng
+    !wcscore [@user] Điểm
+    !wcleaderboard   Bảng xếp hạng
+    !wcstatus        Từ hiện tại / chữ cần nối
+    Kênh: (cho phép mọi kênh nếu danh sách rỗng)
+— Chủ bot: !sync (sync slash) | !cogs (danh sách cog đã load)
+— Còn lệnh / và ! khác theo từng module — thử trên server hoặc xem cogs/.
+========================================================
+
+2026-05-04 23:33:31,711:INFO:__main__: Guild sync [Phòng tự học của VNno1]: 2 command(s)
+2026-05-04 23:33:31,754:INFO:cogs.spam: [SPAM] Quét định kỳ: #1411520340508807178 — 5 tin gần nhất
+2026-05-04 23:33:31,929:INFO:cogs.events: [DEBUG] Message from cyriuss01. in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:31,929:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:33:31,929:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:31,929:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:32,163:INFO:__main__: Guild sync [Máy chủ của minhthu270605]: 2 command(s)
+2026-05-04 23:33:32,741:INFO:cogs.events: [DEBUG] Message from hoangtien1903 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:32,741:INFO:cogs.events: [DEBUG] Channel ID: 1500816517917442189
+2026-05-04 23:33:32,741:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:32,742:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:32,810:INFO:cogs.events: [DEBUG] Message from addd3209 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:32,810:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:33:32,810:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:32,810:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:34,683:INFO:cogs.spam: [SPAM] Quét định kỳ: #1485265777102950430 — 5 tin gần nhất
+2026-05-04 23:33:34,742:INFO:cogs.instruct: Đã gửi hướng dẫn cho thành viên mới: thangvong trong kênh hướng-dẫn-kênh
+2026-05-04 23:33:35,129:INFO:cogs.events: [DEBUG] Message from cyriuss01. in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:35,129:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:33:35,129:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:35,130:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:36,795:INFO:cogs.events: [DEBUG] Message from addd3209 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:36,796:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:33:36,796:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:36,796:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:37,242:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:37,242:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:33:37,243:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:37,243:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:38,153:INFO:cogs.events: [DEBUG] Message from minhthu270605 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:38,153:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:33:38,153:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:38,154:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:38,154:INFO:cogs.events: User minhthu270605 (ID: 852796371622690856) attempted !1timeout
+2026-05-04 23:33:38,154:INFO:cogs.events: Is admin: False
+2026-05-04 23:33:38,154:INFO:cogs.events: User roles: ['@everyone (ID: 1184348724999225355)', 'Manager (ID: 1492755999122260188)', 'Mod (ID: 1185158470958333953)', 'Mod (ID: 1472221087831167163)', 'Supervisor (ID: 1401564796553265162)']
+2026-05-04 23:33:38,155:INFO:cogs.events: Has allowed role: True
+2026-05-04 23:33:38,365:INFO:cogs.events: [DEBUG] Message from eval.and.valu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:38,365:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:33:38,365:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:38,366:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:39,258:INFO:cogs.events: [DEBUG] Message from bananagamer7896 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:39,258:INFO:cogs.events: [DEBUG] Channel ID: 1500688262434525204
+2026-05-04 23:33:39,258:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:39,259:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:39,386:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:39,386:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:33:39,386:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:39,387:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:46,640:INFO:cogs.events: [DEBUG] Message from minhthu270605 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:46,640:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:33:46,641:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:46,641:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:46,954:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:46,954:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:33:46,955:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:46,955:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:47,953:INFO:cogs.events: [DEBUG] Message from cdejjjjj in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:47,957:INFO:cogs.events: [DEBUG] Channel ID: 1500816517917442189
+2026-05-04 23:33:47,959:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:47,968:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:48,928:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:48,928:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:33:48,928:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:48,928:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:51,688:INFO:cogs.events: [DEBUG] Message from aimnv1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:51,688:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:33:51,689:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:51,689:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:52,488:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:52,488:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:33:52,488:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:52,488:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:54,171:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:54,171:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:33:54,171:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:54,171:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:55,087:INFO:cogs.events: [DEBUG] Message from minhthu270605 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:55,088:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:33:55,088:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:55,088:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:56,203:INFO:cogs.events: [DEBUG] Message from thangvong in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:56,204:INFO:cogs.events: [DEBUG] Channel ID: 1446865411814588426
+2026-05-04 23:33:56,204:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:56,204:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:56,385:INFO:cogs.events: [DEBUG] Message from bananagamer7896 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:56,386:INFO:cogs.events: [DEBUG] Channel ID: 1500688262434525204
+2026-05-04 23:33:56,386:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:56,386:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:33:58,001:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:33:58,001:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:33:58,002:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:33:58,002:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:00,266:INFO:cogs.daily: [ScheduledMessages] Tick 23:34 GMT+7 | Da gui hom nay: 0 lich
+2026-05-04 23:34:00,266:INFO:cogs.daily: [ScheduledMessages] Reset trang thai da gui (ngay moi: 04/05/2026)
+2026-05-04 23:34:01,790:INFO:cogs.events: [DEBUG] Message from aimnv1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:01,790:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:34:01,790:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:01,790:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:06,256:INFO:cogs.events: [DEBUG] Message from bananagamer7896 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:06,256:INFO:cogs.events: [DEBUG] Channel ID: 1500688262434525204
+2026-05-04 23:34:06,256:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:06,257:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:07,561:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:07,561:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:34:07,561:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:07,561:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:10,998:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:10,998:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:34:10,999:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:10,999:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:12,693:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:12,693:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:34:12,693:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:12,693:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:12,885:INFO:cogs.events: [DEBUG] Message from halinh0064 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:12,885:INFO:cogs.events: [DEBUG] Channel ID: 1500878648901636257
+2026-05-04 23:34:12,885:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:12,885:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:13,514:INFO:cogs.events: [DEBUG] Message from cyriuss01. in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:13,514:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:34:13,515:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:13,515:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:15,361:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:15,361:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:34:15,361:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:15,361:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:15,721:INFO:cogs.donate: Donate triggered in channel 1446866616452386856 (10 messages in 60s)
+2026-05-04 23:34:16,889:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:16,889:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:34:16,890:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:16,890:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:17,007:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:17,007:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:34:17,007:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:17,007:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:17,742:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:17,743:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:34:17,743:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:17,743:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:18,531:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:18,531:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:34:18,531:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:18,531:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:21,387:INFO:cogs.events: [DEBUG] Message from heckerkt007 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:21,387:INFO:cogs.events: [DEBUG] Channel ID: 1500878648901636257
+2026-05-04 23:34:21,387:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:21,387:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:22,800:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:22,801:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:34:22,801:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:22,801:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:23,016:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:23,016:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:34:23,016:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:23,016:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:24,363:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:24,364:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:34:24,364:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:24,364:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:27,226:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:27,226:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:34:27,226:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:27,226:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:29,854:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:29,855:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:34:29,855:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:29,855:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:30,261:INFO:cogs.events: [DEBUG] Message from hfnqh in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:30,261:INFO:cogs.events: [DEBUG] Channel ID: 1500878648901636257
+2026-05-04 23:34:30,261:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:30,261:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:34,076:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:34,076:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:34:34,076:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:34,077:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:36,169:INFO:cogs.events: [DEBUG] Message from longpx in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:36,169:INFO:cogs.events: [DEBUG] Channel ID: 1500831952721285131
+2026-05-04 23:34:36,169:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:36,170:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:37,149:INFO:cogs.events: [DEBUG] Message from eval.and.valu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:37,149:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:34:37,149:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:37,150:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:38,242:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:38,242:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:34:38,242:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:38,243:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:38,441:INFO:cogs.events: [DEBUG] Message from eval.and.valu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:38,441:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:34:38,441:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:38,441:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:40,448:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:40,449:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:34:40,449:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:40,449:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:42,241:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:42,242:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:34:42,242:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:42,242:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:42,955:INFO:cogs.events: [DEBUG] Message from halinh0064 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:42,955:INFO:cogs.events: [DEBUG] Channel ID: 1500878648901636257
+2026-05-04 23:34:42,955:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:42,955:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:43,338:INFO:cogs.events: [DEBUG] Message from aimnv1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:43,338:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:34:43,338:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:43,339:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:44,544:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:44,544:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:34:44,544:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:44,544:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:45,124:INFO:cogs.events: [DEBUG] Message from aimnv1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:45,124:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:34:45,124:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:45,125:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:50,411:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:50,411:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:34:50,411:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:50,411:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:54,892:INFO:cogs.events: [DEBUG] Message from longpx in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:54,892:INFO:cogs.events: [DEBUG] Channel ID: 1500831952721285131
+2026-05-04 23:34:54,892:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:54,892:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:57,204:INFO:cogs.events: [DEBUG] Message from hfnqh in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:57,204:INFO:cogs.events: [DEBUG] Channel ID: 1500878648901636257
+2026-05-04 23:34:57,205:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:57,205:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:34:57,277:INFO:cogs.events: [DEBUG] Message from halinh0064 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:34:57,278:INFO:cogs.events: [DEBUG] Channel ID: 1500878648901636257
+2026-05-04 23:34:57,278:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:34:57,278:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:00,274:INFO:cogs.daily: [ScheduledMessages] Tick 23:35 GMT+7 | Da gui hom nay: 0 lich
+2026-05-04 23:35:00,758:INFO:cogs.events: [DEBUG] Message from longpx in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:00,758:INFO:cogs.events: [DEBUG] Channel ID: 1500831952721285131
+2026-05-04 23:35:00,758:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:00,759:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:03,907:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:03,907:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:03,907:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:03,907:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:04,029:INFO:cogs.events: [DEBUG] Message from hfnqh in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:04,029:INFO:cogs.events: [DEBUG] Channel ID: 1500878648901636257
+2026-05-04 23:35:04,029:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:04,030:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:08,478:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:08,478:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:08,478:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:08,478:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:11,673:INFO:cogs.events: [DEBUG] Message from minhthu270605 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:11,673:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:35:11,673:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:11,673:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:12,344:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:12,344:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:12,345:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:12,345:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:13,656:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:13,656:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:35:13,657:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:13,657:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:13,657:INFO:cogs.events: User n1ananana.1 (ID: 924300038669209600) attempted !1timeout
+2026-05-04 23:35:13,657:INFO:cogs.events: Is admin: False
+2026-05-04 23:35:13,657:INFO:cogs.events: User roles: ['@everyone (ID: 1184348724999225355)', '2k7 (ID: 1250918063000518696)', 'Npc (ID: 1472560579007746079)']
+2026-05-04 23:35:13,657:INFO:cogs.events: Has allowed role: True
+2026-05-04 23:35:19,717:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:19,717:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:19,717:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:19,718:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:22,670:INFO:cogs.events: [DEBUG] Message from addd3209 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:22,671:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:35:22,671:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:22,671:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:25,821:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:25,821:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:25,821:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:25,821:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:26,789:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:26,790:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:26,790:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:26,790:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:27,745:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:27,745:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:35:27,745:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:27,745:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:28,965:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:28,965:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:28,966:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:28,966:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:29,373:INFO:cogs.events: [DEBUG] Message from cyriuss01. in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:29,373:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:29,373:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:29,373:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:30,097:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:30,097:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:30,098:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:30,098:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:30,134:INFO:cogs.events: [DEBUG] Message from haile0205 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:30,135:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:30,135:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:30,135:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:30,485:INFO:cogs.events: [DEBUG] Message from halinh0064 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:30,485:INFO:cogs.events: [DEBUG] Channel ID: 1500878648901636257
+2026-05-04 23:35:30,486:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:30,486:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:31,897:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:31,898:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:31,898:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:31,898:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:32,212:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:32,212:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:32,213:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:32,213:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:32,656:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:32,656:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:35:32,656:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:32,656:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:33,317:INFO:cogs.clearspmimage: on_message REPORT kênh=1446866616452386856 msg=1500898737914904808 ref=1500898646311567583
+2026-05-04 23:35:33,318:INFO:cogs.events: [DEBUG] Message from minhthu270605 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:33,318:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:35:33,318:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:33,319:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:33,320:INFO:cogs.clearspmimage: Pipeline bắt đầu mode=report guild=1184348724999225355 channel=1446866616452386856 trigger_msg=1500898737914904808 author=852796371622690856
+2026-05-04 23:35:33,320:INFO:cogs.clearspmimage: Quét tin scan_msg=1500898646311567583 jump=https://discord.com/channels/1184348724999225355/1446866616452386856/1500898646311567583 offender_id=852796371622690856
+2026-05-04 23:35:34,369:INFO:cogs.clearspmimage: Đã chuẩn bị 1 ảnh gửi Groq.
+2026-05-04 23:35:34,369:INFO:cogs.clearspmimage: Gọi Groq vision model=meta-llama/llama-4-scout-17b-16e-instruct images=1
+2026-05-04 23:35:34,579:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:34,579:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:34,580:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:34,580:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:35,548:INFO:cogs.clearspmimage: Groq kết quả violation=True type=scam
+2026-05-04 23:35:35,550:WARNING:cogs.clearspmimage: VI PHẠM type=scam scan_msg=1500898646311567583 reason='Promoting a cryptocurrency casino with a $2500 giveaway and a promo code'
+2026-05-04 23:35:36,111:INFO:cogs.clearspmimage: Đã gửi thông báo vi phạm vào kênh.
+2026-05-04 23:35:36,173:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:36,173:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:36,173:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:36,173:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:36,415:WARNING:cogs.clearspmimage: Không đủ quyền timeout member.
+2026-05-04 23:35:37,069:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:37,070:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:35:37,070:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:37,070:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:37,274:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:37,274:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:37,274:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:37,274:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:37,450:INFO:cogs.events: [DEBUG] Message from oitroioi0572 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:37,450:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:35:37,450:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:37,450:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:39,624:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:39,625:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:39,625:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:39,625:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:39,771:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:39,771:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:39,772:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:39,772:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:43,973:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:43,973:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:43,973:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:43,973:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:44,581:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:44,581:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:44,582:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:44,582:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:44,870:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:44,870:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:44,870:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:44,870:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:46,566:INFO:cogs.events: [DEBUG] Message from haile0205 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:46,567:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:46,567:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:46,567:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:47,546:INFO:cogs.events: [DEBUG] Message from hfnqh in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:47,546:INFO:cogs.events: [DEBUG] Channel ID: 1500878648901636257
+2026-05-04 23:35:47,547:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:47,547:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:47,642:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:47,643:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:47,643:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:47,643:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:48,295:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:48,295:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:48,295:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:48,295:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:48,977:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:48,978:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:48,978:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:48,978:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:49,578:INFO:cogs.events: [DEBUG] Message from eval.and.valu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:49,578:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:49,578:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:49,578:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:51,092:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:51,092:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:51,093:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:51,093:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:51,925:INFO:cogs.clearspmimage: on_message REPORT kênh=1446866616452386856 msg=1500898816059117588 ref=1500898714385125548
+2026-05-04 23:35:51,925:INFO:cogs.events: [DEBUG] Message from minhthu270605 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:51,925:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:35:51,925:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:51,926:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:51,926:INFO:cogs.clearspmimage: Pipeline bắt đầu mode=report guild=1184348724999225355 channel=1446866616452386856 trigger_msg=1500898816059117588 author=852796371622690856
+2026-05-04 23:35:51,927:INFO:cogs.clearspmimage: Quét tin scan_msg=1500898714385125548 jump=https://discord.com/channels/1184348724999225355/1446866616452386856/1500898714385125548 offender_id=924300038669209600
+2026-05-04 23:35:51,939:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:51,939:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:51,939:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:51,939:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:52,324:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:52,324:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:52,324:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:52,325:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:52,338:INFO:cogs.clearspmimage: Không có ảnh hợp lệ sau lọc (scan_msg=1500898714385125548) — dừng.
+2026-05-04 23:35:54,136:INFO:cogs.events: [DEBUG] Message from eval.and.valu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:54,136:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:54,137:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:54,137:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:54,616:INFO:cogs.events: [DEBUG] Message from eval.and.valu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:54,617:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:54,617:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:54,617:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:54,626:INFO:cogs.events: [DEBUG] Message from halinh0064 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:54,627:INFO:cogs.events: [DEBUG] Channel ID: 1500878648901636257
+2026-05-04 23:35:54,627:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:54,627:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:56,120:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:56,120:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:56,120:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:56,120:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:56,522:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:56,523:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:56,523:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:56,523:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:56,534:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:56,534:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:56,535:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:56,535:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:56,737:INFO:cogs.events: [DEBUG] Message from haile0205 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:56,737:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:56,737:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:56,737:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:57,311:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:57,312:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:57,312:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:57,312:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:58,427:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:58,427:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:35:58,427:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:58,427:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:59,065:INFO:cogs.clearspmimage: on_message REPORT kênh=1446866616452386856 msg=1500898845754658837 ref=1500898737914904808
+2026-05-04 23:35:59,066:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:59,066:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:35:59,066:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:59,066:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:59,067:INFO:cogs.clearspmimage: Pipeline bắt đầu mode=report guild=1184348724999225355 channel=1446866616452386856 trigger_msg=1500898845754658837 author=969835661978898474
+2026-05-04 23:35:59,068:INFO:cogs.clearspmimage: Quét tin scan_msg=1500898737914904808 jump=https://discord.com/channels/1184348724999225355/1446866616452386856/1500898737914904808 offender_id=852796371622690856
+2026-05-04 23:35:59,127:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:59,127:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:35:59,127:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:59,127:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:35:59,359:INFO:cogs.clearspmimage: Không có ảnh hợp lệ sau lọc (scan_msg=1500898737914904808) — dừng.
+2026-05-04 23:35:59,474:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:35:59,474:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:35:59,474:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:35:59,474:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:00,275:INFO:cogs.daily: [ScheduledMessages] Tick 23:36 GMT+7 | Da gui hom nay: 0 lich
+2026-05-04 23:36:01,693:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:01,693:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:36:01,693:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:01,694:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:04,853:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:04,853:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:04,853:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:04,853:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:05,132:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:05,132:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:05,133:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:05,133:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:06,352:INFO:cogs.events: [DEBUG] Message from vyzy_98_34815 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:06,352:INFO:cogs.events: [DEBUG] Channel ID: 1400017832485326858
+2026-05-04 23:36:06,352:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:06,352:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:08,048:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:08,048:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:36:08,048:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:08,049:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:08,346:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:08,346:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:08,347:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:08,347:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:08,435:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:08,436:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:08,436:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:08,436:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:08,783:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:08,784:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:08,784:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:08,784:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:09,731:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:09,732:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:36:09,732:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:09,732:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:10,473:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:10,474:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:10,474:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:10,474:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:10,755:INFO:cogs.events: [DEBUG] Message from iamduyne._ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:10,756:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:36:10,756:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:10,756:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:12,257:INFO:cogs.events: [DEBUG] Message from ashizunee in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:12,257:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:36:12,257:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:12,257:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:12,714:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:12,715:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:12,715:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:12,715:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:15,203:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:15,203:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:15,203:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:15,203:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:16,116:INFO:cogs.events: [DEBUG] Message from haile0205 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:16,116:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:16,117:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:16,117:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:20,982:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:20,983:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:20,983:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:20,983:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:21,718:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:21,719:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:21,719:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:21,719:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:21,903:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:21,903:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:21,903:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:21,904:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:23,892:INFO:cogs.events: [DEBUG] Message from cyriuss01. in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:23,892:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:36:23,893:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:23,893:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:26,362:INFO:cogs.events: [DEBUG] Message from haile0205 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:26,362:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:26,363:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:26,363:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:27,166:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:27,167:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:27,167:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:27,167:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:28,411:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:28,411:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:28,411:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:28,411:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:28,895:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:28,895:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:28,896:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:28,896:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:30,851:INFO:cogs.events: [DEBUG] Message from cyriuss01. in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:30,851:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:36:30,852:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:30,852:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:30,959:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:30,960:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:36:30,960:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:30,960:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:32,162:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:32,162:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:36:32,163:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:32,163:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:32,470:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:32,470:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:32,471:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:32,471:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:33,665:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:33,665:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:33,665:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:33,665:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:33,942:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:33,942:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:36:33,942:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:33,942:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:33,964:INFO:cogs.events: [DEBUG] Message from longpx in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:33,964:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:33,964:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:33,965:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:35,569:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:35,569:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:35,569:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:35,569:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:36,633:INFO:cogs.events: [DEBUG] Message from iamduyne._ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:36,634:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:36:36,634:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:36,634:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:37,665:INFO:cogs.events: [DEBUG] Message from lullabyy_for in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:37,665:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:36:37,666:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:37,666:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:40,260:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:40,261:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:40,261:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:40,261:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:41,037:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:41,037:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:36:41,037:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:41,038:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:43,343:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:43,343:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:43,343:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:43,343:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:43,645:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:43,646:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:43,646:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:43,646:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:44,718:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:44,719:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:44,719:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:44,719:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:44,825:INFO:cogs.events: [DEBUG] Message from iamduyne._ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:44,825:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:36:44,825:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:44,825:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:46,048:INFO:cogs.events: [DEBUG] Message from iamduyne._ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:46,048:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:36:46,049:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:46,049:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:46,050:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:46,050:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:46,050:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:46,050:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:46,878:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:46,878:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:46,879:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:46,879:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:46,890:INFO:cogs.events: [DEBUG] Message from longpx in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:46,890:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:46,890:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:46,891:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:47,470:INFO:cogs.events: [DEBUG] Message from oitroioi0572 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:47,470:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:36:47,470:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:47,470:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:48,568:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:48,569:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:36:48,569:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:48,569:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:51,278:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:51,279:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:51,279:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:51,279:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:54,262:INFO:cogs.events: [DEBUG] Message from iamduyne._ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:54,262:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:36:54,263:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:54,263:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:55,953:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:55,967:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:36:55,967:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:55,968:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:36:58,624:INFO:cogs.events: [DEBUG] Message from cyriuss01. in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:36:58,624:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:36:58,624:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:36:58,625:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:00,278:INFO:cogs.daily: [ScheduledMessages] Tick 23:37 GMT+7 | Da gui hom nay: 0 lich
+2026-05-04 23:37:00,556:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:00,556:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:00,556:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:00,556:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:03,049:INFO:cogs.events: [DEBUG] Message from duylostream in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:03,049:INFO:cogs.events: [DEBUG] Channel ID: 1500826973507817563
+2026-05-04 23:37:03,049:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:03,050:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:03,843:INFO:cogs.events: [DEBUG] Message from longpx in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:03,844:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:03,844:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:03,844:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:05,531:INFO:cogs.events: [DEBUG] Message from lullabyy_for in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:05,531:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:37:05,531:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:05,532:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:05,883:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:05,883:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:37:05,883:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:05,884:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:05,975:INFO:cogs.events: [DEBUG] Message from oitroioi0572 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:05,975:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:37:05,975:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:05,975:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:07,411:INFO:cogs.events: [DEBUG] Message from longpx in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:07,411:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:07,411:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:07,411:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:07,940:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:07,941:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:37:07,941:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:07,941:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:08,002:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:08,002:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:08,003:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:08,003:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:08,482:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:08,483:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:08,484:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:08,485:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:10,364:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:10,364:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:37:10,364:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:10,365:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:12,388:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:12,388:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:12,388:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:12,388:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:12,517:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:12,518:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:12,518:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:12,518:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:16,167:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:16,167:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:16,168:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:16,168:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:17,714:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:17,714:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:17,715:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:17,715:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:17,783:INFO:cogs.events: [DEBUG] Message from oitroioi0572 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:17,783:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:37:17,784:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:17,784:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:18,081:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:18,081:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:18,081:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:18,081:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:19,501:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:19,501:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:19,501:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:19,501:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:19,540:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:19,540:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:19,541:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:19,541:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:21,172:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:21,172:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:21,173:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:21,173:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:23,786:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:23,786:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:23,786:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:23,786:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:25,662:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:25,662:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:25,663:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:25,663:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:25,806:INFO:cogs.events: [DEBUG] Message from duykhongnqu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:25,806:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:25,806:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:25,807:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:27,770:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:27,770:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:27,771:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:27,771:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:28,064:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:28,064:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:37:28,064:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:28,064:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:28,694:INFO:cogs.clearspmimage: on_message REPORT kênh=1446866616452386856 msg=1500899221929328773 ref=1489981049902465128
+2026-05-04 23:37:28,694:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:28,694:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:37:28,694:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:28,694:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:28,695:INFO:cogs.clearspmimage: Pipeline bắt đầu mode=report guild=1184348724999225355 channel=1446866616452386856 trigger_msg=1500899221929328773 author=924300038669209600
+2026-05-04 23:37:28,695:INFO:cogs.clearspmimage: Quét tin scan_msg=1489981049902465128 jump=https://discord.com/channels/1184348724999225355/1446866616452386856/1489981049902465128 offender_id=704244724818640977
+2026-05-04 23:37:29,115:INFO:cogs.clearspmimage: Không có ảnh hợp lệ sau lọc (scan_msg=1489981049902465128) — dừng.
+2026-05-04 23:37:29,499:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:29,500:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:37:29,500:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:29,500:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:33,732:INFO:cogs.events: [DEBUG] Message from djfromsomewhere in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:33,733:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:33,733:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:33,733:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:33,908:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:33,908:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:33,908:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:33,909:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:35,755:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:35,755:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:37:35,756:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:35,756:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:36,316:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:36,316:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:37:36,316:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:36,317:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:37,970:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:37,970:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:37:37,970:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:37,970:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:41,325:INFO:cogs.events: [DEBUG] Message from minhthu270605 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:41,325:INFO:cogs.events: [DEBUG] Channel ID: 1411448689192603669
+2026-05-04 23:37:41,326:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:41,326:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:42,301:INFO:cogs.events: [DEBUG] Message from cyriuss01. in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:42,301:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:37:42,302:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:42,302:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:43,390:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:43,390:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:37:43,390:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:43,391:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:44,234:WARNING:cogs.scam: [SCAM] Bỏ qua timeout — vai trò không thấp hơn bot user=852796371622690856
+2026-05-04 23:37:44,318:INFO:cogs.events: [DEBUG] Message from lmkng.5 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:44,318:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:44,318:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:44,319:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:45,761:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:45,761:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:45,762:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:45,762:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:46,892:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:46,892:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:37:46,892:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:46,892:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:47,465:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:47,465:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:47,465:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:47,465:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:47,482:INFO:cogs.events: [DEBUG] Message from lullabyy_for in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:47,482:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:37:47,483:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:47,483:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:51,986:INFO:cogs.events: [DEBUG] Message from haile0205 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:51,986:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:51,986:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:51,986:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:52,310:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:52,310:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:52,310:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:52,311:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:52,597:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:52,597:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:52,597:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:52,598:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:53,563:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:53,563:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:37:53,564:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:53,564:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:53,693:INFO:cogs.events: [DEBUG] Message from 1112gbvfv in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:53,693:INFO:cogs.events: [DEBUG] Channel ID: 1411448689192603669
+2026-05-04 23:37:53,694:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:53,694:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:54,075:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:54,076:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:37:54,076:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:54,076:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:56,580:INFO:cogs.scam: [SCAM] Timeout 20 ngày — user=1469578368193269896 channel=1411448689192603669
+2026-05-04 23:37:58,377:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:58,378:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:37:58,378:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:58,378:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:58,543:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:58,544:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:37:58,544:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:58,544:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:58,681:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:58,682:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:37:58,682:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:58,682:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:59,586:INFO:cogs.clearspmimage: on_message REPORT kênh=1446866616452386856 msg=1500899351474606121 ref=1498016003932819556
+2026-05-04 23:37:59,587:INFO:cogs.events: [DEBUG] Message from n1ananana.1 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:37:59,587:INFO:cogs.events: [DEBUG] Channel ID: 1446866616452386856
+2026-05-04 23:37:59,587:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:37:59,587:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:37:59,588:INFO:cogs.clearspmimage: Pipeline bắt đầu mode=report guild=1184348724999225355 channel=1446866616452386856 trigger_msg=1500899351474606121 author=924300038669209600
+2026-05-04 23:37:59,588:INFO:cogs.clearspmimage: Quét tin scan_msg=1498016003932819556 jump=https://discord.com/channels/1184348724999225355/1446866616452386856/1498016003932819556 offender_id=704244724818640977
+2026-05-04 23:37:59,917:INFO:cogs.clearspmimage: Không có ảnh hợp lệ sau lọc (scan_msg=1498016003932819556) — dừng.
+2026-05-04 23:38:00,269:INFO:cogs.daily: [ScheduledMessages] Tick 23:38 GMT+7 | Da gui hom nay: 0 lich
+2026-05-04 23:38:00,910:INFO:cogs.events: [DEBUG] Message from hnaphg in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:00,910:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:00,910:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:00,910:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:03,916:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:03,917:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:03,917:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:03,917:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:05,197:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:05,197:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:38:05,197:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:05,197:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:06,242:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:06,243:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:06,243:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:06,243:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:11,014:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:11,014:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:38:11,015:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:11,015:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:11,953:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:11,953:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:38:11,953:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:11,954:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:13,227:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:13,227:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:13,227:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:13,227:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:15,151:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:15,152:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:15,152:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:15,152:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:16,544:INFO:cogs.events: [DEBUG] Message from haile0205 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:16,544:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:16,544:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:16,544:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:16,872:INFO:cogs.events: [DEBUG] Message from taokhongwibu in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:16,872:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:16,872:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:16,872:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:16,968:INFO:cogs.events: [DEBUG] Message from phukhoen in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:16,969:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:16,969:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:16,969:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:17,423:INFO:cogs.events: [DEBUG] Message from w3ed.3 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:17,423:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:38:17,424:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:17,424:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:17,682:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:17,683:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:38:17,683:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:17,683:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:19,070:INFO:cogs.events: [DEBUG] Message from bananagamer7896 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:19,070:INFO:cogs.events: [DEBUG] Channel ID: 1400017832485326858
+2026-05-04 23:38:19,071:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:19,071:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:21,020:INFO:cogs.events: [DEBUG] Message from lullabyy_for in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:21,021:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:38:21,021:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:21,021:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:21,754:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:21,754:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:21,754:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:21,754:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:21,824:INFO:cogs.events: [DEBUG] Message from oitroioi0572 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:21,824:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:38:21,824:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:21,825:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:22,199:INFO:cogs.events: [DEBUG] Message from longpx in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:22,199:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:22,200:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:22,200:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:22,242:INFO:cogs.events: [DEBUG] Message from haile0205 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:22,242:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:22,242:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:22,242:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:22,647:INFO:cogs.events: [DEBUG] Message from bananagamer7896 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:22,647:INFO:cogs.events: [DEBUG] Channel ID: 1400017832485326858
+2026-05-04 23:38:22,647:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:22,647:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:24,019:INFO:cogs.events: [DEBUG] Message from bananagamer7896 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:24,020:INFO:cogs.events: [DEBUG] Channel ID: 1400017832485326858
+2026-05-04 23:38:24,020:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:24,020:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:25,938:INFO:cogs.events: [DEBUG] Message from haile0205 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:25,939:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:25,939:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:25,939:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:28,555:INFO:cogs.events: [DEBUG] Message from hnaphg in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:28,555:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:28,555:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:28,555:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:29,231:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:29,231:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:38:29,231:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:29,231:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:30,001:INFO:cogs.events: [DEBUG] Message from ren_00171028 in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:30,003:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:30,003:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:30,003:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:31,296:INFO:cogs.events: [DEBUG] Message from ngctr4m in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:31,296:INFO:cogs.events: [DEBUG] Channel ID: 1500853116080230430
+2026-05-04 23:38:31,296:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:31,297:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:34,391:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:34,391:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:34,391:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:34,392:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:35,238:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:35,238:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:35,239:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:35,239:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:35,400:INFO:cogs.events: [DEBUG] Message from iamduyne._ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:35,401:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:38:35,401:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:35,401:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:36,103:INFO:cogs.events: [DEBUG] Message from trtthb__ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:36,103:INFO:cogs.events: [DEBUG] Channel ID: 1400040548533932102
+2026-05-04 23:38:36,103:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:36,103:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:36,435:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:36,435:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:36,436:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:36,436:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:38,386:INFO:cogs.events: [DEBUG] Message from owicun in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:38,387:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:38,387:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:38,387:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:39,590:INFO:cogs.events: [DEBUG] Message from longpx in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:39,591:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:39,591:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:39,591:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:40,405:INFO:cogs.events: [DEBUG] Message from kati.wf in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:40,405:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:40,405:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:40,405:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:40,456:INFO:cogs.events: [DEBUG] Message from iamduyne._ in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:40,456:INFO:cogs.events: [DEBUG] Channel ID: 1500894583247212565
+2026-05-04 23:38:40,457:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:40,457:INFO:cogs.events: [DEBUG] Is in filter channel? False
+2026-05-04 23:38:41,967:INFO:cogs.events: [DEBUG] Message from mtamsobad in Phòng tự học của VNno1 (ID: 1184348724999225355)
+2026-05-04 23:38:41,967:INFO:cogs.events: [DEBUG] Channel ID: 1500843798278963340
+2026-05-04 23:38:41,967:INFO:cogs.events: [DEBUG] BOT_FILTER_CHANNELS = [908]
+2026-05-04 23:38:41,968:INFO:cogs.events: [DEBUG] Is in filter channel? False
