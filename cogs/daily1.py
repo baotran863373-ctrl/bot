@@ -26,7 +26,7 @@ CHANNEL_3_LINK = (
 EXTRA_CHANNEL_ID = "1112"
 
 # Các kênh nhận bản tin quảng cáo (cùng nội dung)
-BROADCAST_CHANNEL_IDS = (1446866616452386856)
+BROADCAST_CHANNEL_IDS = (1446866616452386856,)
 
 
 def _ad_message() -> str:
