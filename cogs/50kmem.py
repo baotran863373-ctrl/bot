@@ -5,7 +5,7 @@ from utils.logger import setup_logger
 
 logger = setup_logger(__name__)
 
-MEMBER_MILESTONE = 60000
+MEMBER_MILESTONE = 70000
 NOTIFICATION_CHANNEL_IDS = (1486411439907274884, 1446865411814588426,1446866616452386856)
 
 
@@ -20,7 +20,7 @@ class FiftyKMem(commands.Cog):
             return
 
         embed = discord.Embed(
-            title="🎊 Cột mốc 60.000 thành viên!",
+            title="🎊 Cột mốc 70.000 thành viên!",
             description=(
                 f"✨ Xin chào {member.mention}!\n\n"
                 f"Bạn chính là **thành viên thứ {MEMBER_MILESTONE:,}** "
