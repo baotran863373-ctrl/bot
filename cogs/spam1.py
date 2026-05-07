@@ -10,6 +10,7 @@ from discord.ext import commands
 WARNING_REPEAT_COUNT = 4
 TIMEOUT_REPEAT_COUNT = 5
 TIMEOUT_DURATION = timedelta(hours=3)
+MONITORED_CHANNEL_IDS = {1446866616452386856,1486411439907274884}
 
 
 @dataclass
@@ -34,6 +35,9 @@ class Spam1(commands.Cog):
     @commands.Cog.listener()
     async def on_message(self, message: discord.Message) -> None:
         if message.guild is None or message.author.bot:
+            return
+
+        if message.channel.id not in MONITORED_CHANNEL_IDS:
             return
 
         content = self._normalize_content(message.content)
