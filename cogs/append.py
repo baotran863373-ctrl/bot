@@ -27,9 +27,7 @@ MONGO_COLLECTION = "contributed_documents"
 DOC_APPEND_ROLE_IDS = {1472560579007746079,123}
 
 
-def _member_can_append(member: discord.Member) -> bool:
-    role_ids = {r.id for r in member.roles}
-    return bool(role_ids & DOC_APPEND_ROLE_IDS)
+
 
 
 def _load_docs() -> Dict[str, Any]:
