@@ -24,7 +24,7 @@ DOCS_FILE = DATA_DIR / "documents.json"
 MONGO_COLLECTION = "contributed_documents"
 
 # Role được phép dùng !append (Developer Mode: chuột phải role → Copy Role ID)
-DOC_APPEND_ROLE_IDS = {1472560579007746079,123,1185183734153097296}
+DOC_APPEND_ROLE_IDS = {1472560579007746079,123,1185183734153097296,1250918063000518696,1241969973086388244}
 
 def _member_can_append(member: discord.Member) -> bool:
     role_ids = {r.id for r in member.roles}
