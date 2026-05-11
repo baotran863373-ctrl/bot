@@ -14,7 +14,7 @@ from discord.ext import commands
 logger = logging.getLogger(__name__)
 
 # Văn bản hiển thị (custom status hoặc Playing).
-STATUS_TEXT = "Hello"
+STATUS_TEXT = "Exit Sign"
 
 
 async def apply_mixi_presence(client: discord.Client) -> None:
