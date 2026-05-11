@@ -79,7 +79,7 @@ class Tinhnang1(commands.Cog):
     async def cog_unload(self) -> None:
         self.ad_broadcast.cancel()
 
-    @tasks.loop(minutes=30)
+    @tasks.loop(minutes=60)
     async def ad_broadcast(self) -> None:
         text = _ad_message()
         for cid in BROADCAST_CHANNEL_IDS:
