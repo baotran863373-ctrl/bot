@@ -13,13 +13,7 @@ logger = setup_logger(__name__)
 CHANNEL_1_LINK = (
     "https://discord.com/channels/1184348724999225355/1442515721111212052"
 )
-CHANNEL_2_LINK = (
-    "https://discord.com/channels/1184348724999225355/1444322395803488307"
-)
 
-CHANNEL_3_LINK = (
-    "https://discord.com/channels/1184348724999225355/1437324764090859662"
-)
 
 
 # Kênh thứ ba: ID trong tin + gửi tin vào kênh này (đổi 123 thành snowflake thật nếu cần)
@@ -33,8 +27,7 @@ def _ad_message() -> str:
     return (
         "Bấm vào các link sau để xem tư vấn về ngành học và tất cả mọi vấn đề về cuộc sống và hướng nghiệp\n\n"
         f"Kênh 1: {CHANNEL_1_LINK}\n"
-        f"Kênh 2: {CHANNEL_2_LINK}\n"
-        f"Kênh 3: {CHANNEL_3_LINK}\n"
+        
 
     )
 
