@@ -17,7 +17,7 @@ def _reminder_embed() -> discord.Embed:
         title="📚 Thêm tài liệu",
         description=(
             "Bạn có thể thêm tài liệu bằng lệnh **`!append`**.,xem tài liệu lưu bằng lệnh !docs\n\n"
-            "Ví dụ: !append https://e.vnexpress.net/news/travel/food-recipes/famous-eateries-tea-milk-chains-in-hanoi-fined-for-food-safety-violations-5068085.html food"
+            "Ví dụ: !append dochet1989.com mixi"
         ),
         color=discord.Color.teal(),
     )
